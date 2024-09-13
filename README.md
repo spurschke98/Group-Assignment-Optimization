@@ -9,7 +9,7 @@ The project's goal is to create "optimal" attendee groups for an event. This mea
 
 
 ## Mathematical Programming Model Aspects: 
-**Decision Variables: **
+**Decision Variables:**
 1. seated_vars:
     - one variable for each person at each table in each session
     - Binary, taking on value of 0 (not seated at this table in this session) or 1 (seated at this table in this session)
